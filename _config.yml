@@ -1,7 +1,7 @@
 title: decimalator.github.io
-description: Saving the world with Linux since 1995
+description: Breaking Linux servers for fun and profit since 1995
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
